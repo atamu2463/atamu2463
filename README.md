@@ -7,4 +7,4 @@
  </a>
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=docker,discord,github,go,js,python,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,github,ts,js,python,vscode)](https://skillicons.dev)
