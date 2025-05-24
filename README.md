@@ -5,16 +5,7 @@
   <a href="https://github.com/atamu2463">
     <img height="20" src="https://img.shields.io/github/followers/atamu2463?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/atamu2463">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/atamu2463/posts.svg" />
-  </a>
-  <a href="http://qiita.com/atamu2463">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/atamu2463/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/atamu2463">
-    <img height="20" src="https://badgen.org/img/zenn/atamu2463/articles?style=plastic" />
-  </a>
-</p>
+ </p>
 
 <a width=50 height=50>
 
